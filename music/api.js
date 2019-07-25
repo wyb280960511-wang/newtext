@@ -5,3 +5,6 @@ function getmusiclist(){
 function foo(){
 
 }
+function new(){
+    
+}
