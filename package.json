@@ -1,0 +1,22 @@
+{
+  "name": "newtext",
+  "version": "1.0.0",
+  "description": "学习git\r v1 版本一",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyb280960511-wang/newtext.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyb280960511-wang/newtext/issues"
+  },
+  "homepage": "https://github.com/wyb280960511-wang/newtext#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
